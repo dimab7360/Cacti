@@ -1,6 +1,8 @@
 # Cacti
 My description how to setup Cacti on web server APACHE/NGINX.
 1. First its install all needed:
+
+
 #########################################################################################
 sudo apt install nginx
 
